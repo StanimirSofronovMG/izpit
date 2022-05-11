@@ -1,0 +1,9 @@
+C:\Users\admin\source\repos\Stanimir_Sofronov_11e\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+C:\Users\admin\source\repos\Stanimir_Sofronov_11e\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\admin\source\repos\Stanimir_Sofronov_11e\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Users\admin\source\repos\Stanimir_Sofronov_11e\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Stanimir_Sofronov_11e\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Stanimir_Sofronov_11e\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+C:\Users\admin\source\repos\Stanimir_Sofronov_11e\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Stanimir_Sofronov_11e\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\admin\source\repos\Stanimir_Sofronov_11e\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb
